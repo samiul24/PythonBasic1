@@ -1,3 +1,5 @@
+# [https://pynative.com/python-class-method/]
+
 class Vehicle:
     def __init__(self, max_speed) -> None:
         self.max_speed = max_speed
